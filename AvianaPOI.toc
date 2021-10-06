@@ -1,0 +1,7 @@
+## Interface: 90001
+## Title: Aviana POI
+## Author: Harusha
+## Version: 0.0.1
+## SavedVariables: Av_POI
+
+Core\Core.xml

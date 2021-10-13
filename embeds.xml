@@ -1,0 +1,10 @@
+<Ui xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="lib\LibStub\LibStub.lua"/>
+	<Include file="lib\AceAddon-3.0\AceAddon-3.0.xml"/>
+	<Include file="lib\CallbackHandler-1.0\CallbackHandler-1.0.xml"/>
+	<Script file="lib\HereBeDragons\HereBeDragons-2.0.lua"/>
+	<Script file="lib\HereBeDragons\HereBeDragons-Pins-2.0.lua"/>
+	
+	<Include file="templates\Templates.xml"/>
+	<Script file="Core.lua"/>
+</Ui>

@@ -4,4 +4,4 @@
 ## Version: 0.0.1
 ## SavedVariables: Av_POI
 
-Core\Core.xml
+embeds.xml
